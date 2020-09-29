@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\Vendor.csproj": {}
+    "G:\\RetailProductCTS\\Vendor\\Vendor.csproj": {}
   },
   "projects": {
-    "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\Vendor.csproj": {
+    "G:\\RetailProductCTS\\Vendor\\Vendor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\Vendor.csproj",
+        "projectUniqueName": "G:\\RetailProductCTS\\Vendor\\Vendor.csproj",
         "projectName": "Vendor",
-        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\Vendor.csproj",
-        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\backup\\Retail Product Management\\Retail Product Management\\VendorModule\\Vendor\\obj\\",
+        "projectPath": "G:\\RetailProductCTS\\Vendor\\Vendor.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "G:\\RetailProductCTS\\Vendor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
